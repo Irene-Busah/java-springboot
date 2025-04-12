@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "employee\\src\\main\\java",
+        "hospitalSystem\\src",
+        "simpleApp\\src\\main\\java\\com\\simpleApplication\\springboot\\demo\\simpleApp",
+        "springcoredemo\\src\\main\\java\\com\\ibusah\\springcoredemo",
+        "src\\src"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.referencedLibraries": []
+}

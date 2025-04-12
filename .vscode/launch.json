@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CruddemoApplication",
+            "request": "launch",
+            "mainClass": "com.ibusah.cruddemo.CruddemoApplication",
+            "projectName": "cruddemo"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SimpleAppApplication<simpleApp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.simpleApplication.springboot.demo.simpleApp.SimpleAppApplication",
+            "projectName": "simpleApp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
